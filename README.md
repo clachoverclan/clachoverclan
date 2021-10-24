@@ -12,6 +12,7 @@ Mon site ainsi que mes réseaux :
 - Passion
   - Developpement
   - Video-Games
+  - Manga / Anime
   - [Youtube](https://www.youtube.com/channel/UCBCXc_qUBqHPXdwkkcikUyQ)
   - [Twitch](https://www.twitch.tv/c1ach0)
   - [Discord](https://discord.gg/W3yFPNVjVW)
