@@ -3,6 +3,9 @@ Mon site ainsi que mes réseaux :
 
 [![RosyDeveloppement](https://forthebadge.com/images/badges/built-with-love.svg)](https://rosydeveloppement.000webhostapp.com) [![Discord](https://forthebadge.com/images/badges/for-you.svg)](https://discord.gg/W3yFPNVjVW) [![Open Source](https://forthebadge.com/images/badges/open-source.svg)](https://github.com/clachoverclan?tab=repositories)
 
+![C1ach0's github stats](https://github-readme-stats.vercel.app/api?username=clachoverclan&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clachoverclan&theme=radical)
+
 ## About Me
 
 - C1ach0
@@ -33,10 +36,9 @@ Mon site ainsi que mes réseaux :
 
 ## Languages
 Je code presque uniquement en JavaScript.
-- Python
 - Html/CSS
 - JavaScript
 
 ## Licences
 
-Pas de licences pour le moment..
+- MIT
