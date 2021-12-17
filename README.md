@@ -9,7 +9,6 @@ Mon site ainsi que mes réseaux :
 ## About Me
 
 - C1ach0
-  - Maxence
   - Lycéen
   - +17 ans
 - Passion
