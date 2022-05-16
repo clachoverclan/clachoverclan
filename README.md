@@ -10,7 +10,7 @@ Mon site ainsi que mes réseaux :
 
 - C1ach0
   - Lycéen
-  - +17 ans
+  - +18 ans
 - Passion
   - Developpement
   - Video-Games
