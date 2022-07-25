@@ -5,7 +5,7 @@ Mon site ainsi que mes réseaux :
 
 ![C1ach0's github stats](https://github-readme-stats.vercel.app/api?username=clachoverclan&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clachoverclan&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clachoverclan&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=clachoverclan&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clachoverclan&theme=radical)
 
 ## About Me
