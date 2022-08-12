@@ -36,10 +36,9 @@ Mon site ainsi que mes réseaux :
 
 ## Languages
 Je code presque uniquement en JavaScript.
-- Html/CSS
+- ~~Html/CSS~~
 - JavaScript
 - CPP
-- Python
 
 ## Licences
 
